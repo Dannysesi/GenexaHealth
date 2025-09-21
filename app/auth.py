@@ -5,9 +5,10 @@ from passlib.context import CryptContext
 from fastapi import Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer
 from pydantic import BaseModel
+import os
 
-# Secret key for JWT - in production, use a secure random key and store in environment variables
-SECRET_KEY = "your-secret-key-here-change-in-production"
+
+SECRET_KEY = os.getenv("SECRET_KEY", "dev-secret")
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
