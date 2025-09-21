@@ -1,0 +1,1001 @@
+Patient_ID,Alcohol_Intake,Smoking_Status,Diet_VitK_Intake
+P0001,None,Non-smoker,Low
+P0002,Light,Non-smoker,Medium
+P0003,Light,Non-smoker,High
+P0004,Light,Non-smoker,Medium
+P0005,None,Non-smoker,Low
+P0006,Light,Former Smoker,High
+P0007,Moderate,Non-smoker,High
+P0008,Heavy,Non-smoker,Medium
+P0009,Light,Smoker,Medium
+P0010,None,Non-smoker,Medium
+P0011,Heavy,Non-smoker,Medium
+P0012,Moderate,Former Smoker,High
+P0013,None,Smoker,Low
+P0014,None,Non-smoker,Medium
+P0015,None,Non-smoker,Medium
+P0016,None,Former Smoker,High
+P0017,None,Non-smoker,High
+P0018,Moderate,Former Smoker,High
+P0019,Light,Smoker,Medium
+P0020,Light,Smoker,High
+P0021,Moderate,Non-smoker,Medium
+P0022,Moderate,Non-smoker,Medium
+P0023,Moderate,Smoker,Low
+P0024,Heavy,Non-smoker,High
+P0025,Light,Non-smoker,High
+P0026,Heavy,Former Smoker,Low
+P0027,Moderate,Non-smoker,Low
+P0028,None,Non-smoker,High
+P0029,Light,Smoker,Medium
+P0030,Light,Non-smoker,High
+P0031,Moderate,Non-smoker,Low
+P0032,None,Non-smoker,Low
+P0033,Light,Former Smoker,Medium
+P0034,None,Non-smoker,Low
+P0035,None,Non-smoker,Low
+P0036,None,Former Smoker,Low
+P0037,Light,Former Smoker,Low
+P0038,Moderate,Non-smoker,Low
+P0039,None,Former Smoker,High
+P0040,Light,Non-smoker,Low
+P0041,None,Former Smoker,Medium
+P0042,None,Non-smoker,High
+P0043,Light,Non-smoker,Medium
+P0044,None,Former Smoker,Medium
+P0045,Light,Non-smoker,Medium
+P0046,None,Non-smoker,High
+P0047,None,Non-smoker,High
+P0048,Light,Former Smoker,Medium
+P0049,Light,Non-smoker,High
+P0050,None,Non-smoker,Medium
+P0051,Light,Non-smoker,Low
+P0052,Moderate,Non-smoker,High
+P0053,Moderate,Non-smoker,Medium
+P0054,None,Non-smoker,High
+P0055,Light,Non-smoker,Low
+P0056,Light,Non-smoker,Low
+P0057,None,Former Smoker,High
+P0058,Moderate,Former Smoker,Low
+P0059,Moderate,Smoker,High
+P0060,Moderate,Non-smoker,High
+P0061,Moderate,Smoker,High
+P0062,Moderate,Non-smoker,Medium
+P0063,Light,Smoker,Medium
+P0064,Light,Non-smoker,High
+P0065,Moderate,Non-smoker,Medium
+P0066,Light,Non-smoker,Medium
+P0067,None,Non-smoker,High
+P0068,None,Former Smoker,Medium
+P0069,Moderate,Former Smoker,High
+P0070,None,Smoker,Low
+P0071,Light,Former Smoker,Low
+P0072,Heavy,Non-smoker,Medium
+P0073,Moderate,Non-smoker,Low
+P0074,Heavy,Smoker,Medium
+P0075,Light,Non-smoker,Low
+P0076,None,Former Smoker,High
+P0077,Moderate,Non-smoker,Low
+P0078,None,Non-smoker,Medium
+P0079,Light,Smoker,Low
+P0080,None,Non-smoker,Medium
+P0081,None,Non-smoker,Low
+P0082,Light,Non-smoker,Low
+P0083,None,Former Smoker,Medium
+P0084,Light,Non-smoker,Low
+P0085,Moderate,Non-smoker,Low
+P0086,None,Non-smoker,Medium
+P0087,None,Non-smoker,Low
+P0088,Light,Non-smoker,Medium
+P0089,Light,Non-smoker,Low
+P0090,Moderate,Smoker,Low
+P0091,None,Smoker,Medium
+P0092,Moderate,Non-smoker,Low
+P0093,Light,Former Smoker,High
+P0094,Light,Non-smoker,High
+P0095,None,Non-smoker,Low
+P0096,Light,Non-smoker,High
+P0097,None,Non-smoker,Low
+P0098,None,Non-smoker,Low
+P0099,Light,Non-smoker,Low
+P0100,Moderate,Former Smoker,Medium
+P0101,Moderate,Non-smoker,Medium
+P0102,Light,Former Smoker,Low
+P0103,Light,Non-smoker,High
+P0104,Light,Non-smoker,Medium
+P0105,Heavy,Non-smoker,Low
+P0106,Light,Non-smoker,Medium
+P0107,None,Former Smoker,High
+P0108,None,Former Smoker,Low
+P0109,Light,Non-smoker,Low
+P0110,Light,Former Smoker,Medium
+P0111,None,Smoker,Medium
+P0112,Moderate,Former Smoker,Medium
+P0113,Moderate,Non-smoker,Low
+P0114,Light,Former Smoker,Medium
+P0115,None,Non-smoker,Medium
+P0116,None,Smoker,Medium
+P0117,Moderate,Non-smoker,Low
+P0118,Moderate,Non-smoker,Medium
+P0119,None,Non-smoker,Low
+P0120,None,Non-smoker,Medium
+P0121,Light,Smoker,High
+P0122,None,Non-smoker,Medium
+P0123,Light,Non-smoker,Low
+P0124,Heavy,Smoker,Medium
+P0125,None,Non-smoker,High
+P0126,None,Non-smoker,Medium
+P0127,Moderate,Non-smoker,Medium
+P0128,None,Non-smoker,Low
+P0129,Heavy,Non-smoker,Medium
+P0130,Light,Non-smoker,Medium
+P0131,Moderate,Former Smoker,High
+P0132,None,Smoker,Medium
+P0133,None,Non-smoker,Medium
+P0134,Light,Non-smoker,Medium
+P0135,Light,Non-smoker,Low
+P0136,None,Former Smoker,High
+P0137,Heavy,Non-smoker,Medium
+P0138,Moderate,Smoker,High
+P0139,Light,Non-smoker,Medium
+P0140,None,Smoker,Low
+P0141,Moderate,Non-smoker,Medium
+P0142,Moderate,Former Smoker,Low
+P0143,Light,Non-smoker,Low
+P0144,Moderate,Former Smoker,Low
+P0145,None,Non-smoker,Medium
+P0146,None,Non-smoker,Medium
+P0147,None,Non-smoker,Low
+P0148,Moderate,Smoker,Medium
+P0149,Light,Former Smoker,Medium
+P0150,None,Non-smoker,High
+P0151,None,Non-smoker,Medium
+P0152,None,Non-smoker,Medium
+P0153,None,Former Smoker,Low
+P0154,Light,Former Smoker,Medium
+P0155,None,Former Smoker,Medium
+P0156,None,Non-smoker,High
+P0157,Moderate,Smoker,Low
+P0158,Light,Smoker,Medium
+P0159,Moderate,Former Smoker,Medium
+P0160,None,Non-smoker,Low
+P0161,None,Former Smoker,Medium
+P0162,Light,Non-smoker,High
+P0163,None,Non-smoker,Medium
+P0164,None,Non-smoker,High
+P0165,Moderate,Non-smoker,Low
+P0166,Moderate,Non-smoker,Medium
+P0167,None,Non-smoker,Medium
+P0168,None,Non-smoker,Medium
+P0169,Heavy,Former Smoker,High
+P0170,None,Non-smoker,Low
+P0171,Light,Non-smoker,High
+P0172,Heavy,Non-smoker,Medium
+P0173,Heavy,Smoker,Low
+P0174,Light,Former Smoker,High
+P0175,None,Non-smoker,Medium
+P0176,None,Smoker,High
+P0177,Moderate,Non-smoker,Low
+P0178,Moderate,Smoker,High
+P0179,Light,Non-smoker,Medium
+P0180,Moderate,Non-smoker,Low
+P0181,Moderate,Non-smoker,Medium
+P0182,Light,Non-smoker,Low
+P0183,Moderate,Non-smoker,Medium
+P0184,Light,Former Smoker,Low
+P0185,Light,Former Smoker,Low
+P0186,None,Non-smoker,Low
+P0187,Moderate,Non-smoker,Medium
+P0188,Light,Non-smoker,Medium
+P0189,None,Non-smoker,Medium
+P0190,Moderate,Former Smoker,Low
+P0191,Light,Non-smoker,Medium
+P0192,Moderate,Former Smoker,Medium
+P0193,None,Non-smoker,Low
+P0194,Light,Non-smoker,High
+P0195,None,Non-smoker,Medium
+P0196,Moderate,Non-smoker,Medium
+P0197,None,Non-smoker,Low
+P0198,Light,Former Smoker,Low
+P0199,Moderate,Non-smoker,High
+P0200,None,Non-smoker,High
+P0201,Heavy,Former Smoker,Low
+P0202,Moderate,Non-smoker,Low
+P0203,None,Former Smoker,Medium
+P0204,None,Non-smoker,Medium
+P0205,None,Non-smoker,High
+P0206,None,Smoker,Low
+P0207,Moderate,Former Smoker,Medium
+P0208,Heavy,Non-smoker,Low
+P0209,None,Non-smoker,Low
+P0210,Light,Smoker,Low
+P0211,Light,Non-smoker,High
+P0212,None,Non-smoker,Medium
+P0213,None,Former Smoker,High
+P0214,None,Former Smoker,Low
+P0215,Light,Former Smoker,Low
+P0216,Light,Former Smoker,Low
+P0217,Moderate,Former Smoker,Low
+P0218,None,Former Smoker,High
+P0219,Moderate,Former Smoker,Low
+P0220,Light,Non-smoker,Low
+P0221,Moderate,Non-smoker,Low
+P0222,Light,Former Smoker,Low
+P0223,Moderate,Smoker,Medium
+P0224,Moderate,Non-smoker,Medium
+P0225,Light,Non-smoker,Medium
+P0226,None,Smoker,Medium
+P0227,Moderate,Non-smoker,Low
+P0228,Moderate,Non-smoker,Low
+P0229,Moderate,Former Smoker,Medium
+P0230,Moderate,Smoker,Medium
+P0231,Light,Former Smoker,Low
+P0232,None,Former Smoker,Low
+P0233,None,Non-smoker,Low
+P0234,Heavy,Smoker,Low
+P0235,None,Non-smoker,Low
+P0236,None,Smoker,Low
+P0237,Moderate,Non-smoker,Medium
+P0238,Moderate,Non-smoker,Low
+P0239,None,Non-smoker,Low
+P0240,None,Non-smoker,High
+P0241,Light,Former Smoker,Medium
+P0242,None,Smoker,High
+P0243,Moderate,Former Smoker,Low
+P0244,None,Smoker,Medium
+P0245,Moderate,Non-smoker,Low
+P0246,Moderate,Former Smoker,Medium
+P0247,Light,Former Smoker,Low
+P0248,None,Former Smoker,Low
+P0249,Light,Non-smoker,High
+P0250,Light,Former Smoker,Medium
+P0251,None,Former Smoker,High
+P0252,Moderate,Non-smoker,Low
+P0253,Light,Former Smoker,Low
+P0254,Moderate,Smoker,Medium
+P0255,None,Non-smoker,Medium
+P0256,None,Former Smoker,Medium
+P0257,Heavy,Former Smoker,High
+P0258,Light,Former Smoker,Low
+P0259,Light,Non-smoker,Medium
+P0260,Light,Smoker,Low
+P0261,None,Non-smoker,Low
+P0262,Moderate,Non-smoker,Medium
+P0263,None,Former Smoker,Medium
+P0264,Light,Former Smoker,Low
+P0265,Light,Former Smoker,Low
+P0266,Moderate,Non-smoker,Medium
+P0267,Light,Non-smoker,Medium
+P0268,None,Smoker,Low
+P0269,Light,Non-smoker,Low
+P0270,None,Former Smoker,Low
+P0271,None,Former Smoker,High
+P0272,None,Former Smoker,High
+P0273,Light,Non-smoker,Medium
+P0274,None,Former Smoker,High
+P0275,Light,Smoker,Medium
+P0276,Moderate,Non-smoker,Low
+P0277,Moderate,Non-smoker,Low
+P0278,None,Non-smoker,High
+P0279,None,Non-smoker,Medium
+P0280,Light,Smoker,High
+P0281,Moderate,Smoker,High
+P0282,None,Smoker,Medium
+P0283,Moderate,Non-smoker,Low
+P0284,Light,Former Smoker,Low
+P0285,Light,Non-smoker,Low
+P0286,Heavy,Former Smoker,Low
+P0287,Moderate,Former Smoker,Medium
+P0288,Moderate,Smoker,Low
+P0289,None,Former Smoker,Low
+P0290,Light,Smoker,Medium
+P0291,Light,Smoker,Low
+P0292,None,Smoker,Medium
+P0293,Light,Non-smoker,Medium
+P0294,None,Former Smoker,Medium
+P0295,None,Former Smoker,High
+P0296,None,Non-smoker,Low
+P0297,Moderate,Non-smoker,Low
+P0298,Moderate,Former Smoker,High
+P0299,Light,Non-smoker,Medium
+P0300,Light,Non-smoker,Medium
+P0301,None,Former Smoker,Low
+P0302,Moderate,Smoker,High
+P0303,Light,Former Smoker,High
+P0304,Moderate,Non-smoker,Medium
+P0305,Moderate,Non-smoker,Low
+P0306,None,Non-smoker,High
+P0307,Light,Non-smoker,Medium
+P0308,Heavy,Non-smoker,Medium
+P0309,None,Smoker,Low
+P0310,Light,Non-smoker,Medium
+P0311,Heavy,Non-smoker,Low
+P0312,None,Non-smoker,Low
+P0313,Moderate,Non-smoker,Medium
+P0314,Moderate,Non-smoker,Low
+P0315,Moderate,Non-smoker,Medium
+P0316,None,Smoker,Medium
+P0317,None,Non-smoker,Low
+P0318,None,Non-smoker,Medium
+P0319,Moderate,Non-smoker,High
+P0320,Moderate,Non-smoker,Low
+P0321,Light,Non-smoker,Medium
+P0322,None,Non-smoker,Low
+P0323,None,Non-smoker,Medium
+P0324,Moderate,Former Smoker,Low
+P0325,Moderate,Non-smoker,Low
+P0326,Moderate,Non-smoker,Low
+P0327,Moderate,Non-smoker,High
+P0328,Moderate,Non-smoker,Medium
+P0329,Moderate,Non-smoker,Medium
+P0330,Light,Non-smoker,Low
+P0331,Light,Non-smoker,Medium
+P0332,Moderate,Non-smoker,Low
+P0333,Light,Non-smoker,Low
+P0334,None,Non-smoker,Medium
+P0335,None,Non-smoker,Low
+P0336,None,Smoker,Low
+P0337,Light,Former Smoker,Medium
+P0338,None,Former Smoker,High
+P0339,None,Smoker,Low
+P0340,Light,Smoker,Low
+P0341,None,Former Smoker,Low
+P0342,Moderate,Former Smoker,High
+P0343,Light,Non-smoker,High
+P0344,Light,Non-smoker,Medium
+P0345,None,Former Smoker,High
+P0346,None,Smoker,Medium
+P0347,Light,Non-smoker,High
+P0348,Moderate,Former Smoker,Low
+P0349,Moderate,Non-smoker,Low
+P0350,None,Non-smoker,Medium
+P0351,Light,Non-smoker,Low
+P0352,None,Non-smoker,Medium
+P0353,Heavy,Non-smoker,Low
+P0354,Heavy,Former Smoker,Medium
+P0355,Light,Smoker,Low
+P0356,Light,Smoker,Low
+P0357,Moderate,Non-smoker,High
+P0358,Moderate,Smoker,High
+P0359,Light,Non-smoker,High
+P0360,Heavy,Non-smoker,Medium
+P0361,Light,Former Smoker,Medium
+P0362,Light,Non-smoker,Medium
+P0363,Moderate,Non-smoker,Low
+P0364,Light,Non-smoker,Low
+P0365,Moderate,Former Smoker,Low
+P0366,None,Non-smoker,High
+P0367,None,Former Smoker,Low
+P0368,None,Former Smoker,High
+P0369,Light,Former Smoker,Medium
+P0370,Light,Smoker,Medium
+P0371,Heavy,Non-smoker,Low
+P0372,Light,Non-smoker,Low
+P0373,Moderate,Non-smoker,High
+P0374,None,Non-smoker,Low
+P0375,Moderate,Former Smoker,Low
+P0376,Light,Non-smoker,Low
+P0377,Light,Non-smoker,Low
+P0378,None,Former Smoker,Low
+P0379,Light,Former Smoker,Medium
+P0380,Light,Former Smoker,Medium
+P0381,Light,Former Smoker,Medium
+P0382,Moderate,Former Smoker,Low
+P0383,Moderate,Former Smoker,High
+P0384,Heavy,Non-smoker,Medium
+P0385,Light,Smoker,Low
+P0386,Heavy,Non-smoker,Low
+P0387,Moderate,Non-smoker,Low
+P0388,None,Non-smoker,Medium
+P0389,Light,Former Smoker,Medium
+P0390,None,Smoker,High
+P0391,None,Non-smoker,Low
+P0392,None,Non-smoker,Medium
+P0393,None,Smoker,Low
+P0394,Moderate,Smoker,Low
+P0395,Light,Non-smoker,Medium
+P0396,None,Non-smoker,Low
+P0397,Moderate,Former Smoker,Medium
+P0398,Moderate,Non-smoker,Medium
+P0399,Heavy,Smoker,High
+P0400,Light,Non-smoker,Low
+P0401,Light,Non-smoker,High
+P0402,None,Non-smoker,High
+P0403,None,Non-smoker,High
+P0404,None,Non-smoker,Medium
+P0405,Light,Non-smoker,High
+P0406,Heavy,Former Smoker,Medium
+P0407,None,Non-smoker,Low
+P0408,None,Smoker,Medium
+P0409,None,Non-smoker,Medium
+P0410,Moderate,Former Smoker,High
+P0411,None,Non-smoker,Medium
+P0412,Light,Non-smoker,Low
+P0413,None,Non-smoker,Medium
+P0414,Light,Non-smoker,High
+P0415,None,Former Smoker,Low
+P0416,Light,Former Smoker,Low
+P0417,None,Former Smoker,Medium
+P0418,Moderate,Non-smoker,Low
+P0419,Light,Smoker,Low
+P0420,Moderate,Former Smoker,Low
+P0421,Light,Smoker,High
+P0422,None,Former Smoker,Low
+P0423,None,Non-smoker,Medium
+P0424,Light,Non-smoker,Medium
+P0425,Light,Non-smoker,High
+P0426,Light,Former Smoker,High
+P0427,Moderate,Non-smoker,Medium
+P0428,Moderate,Former Smoker,High
+P0429,Moderate,Non-smoker,Low
+P0430,None,Non-smoker,Medium
+P0431,Light,Non-smoker,Medium
+P0432,None,Non-smoker,Low
+P0433,Light,Former Smoker,Medium
+P0434,None,Non-smoker,Low
+P0435,None,Former Smoker,High
+P0436,Moderate,Non-smoker,Low
+P0437,Light,Non-smoker,Medium
+P0438,None,Former Smoker,Low
+P0439,None,Non-smoker,Low
+P0440,Light,Former Smoker,High
+P0441,Moderate,Former Smoker,Medium
+P0442,Light,Smoker,High
+P0443,Heavy,Non-smoker,Low
+P0444,None,Non-smoker,Low
+P0445,Light,Former Smoker,Medium
+P0446,Moderate,Former Smoker,Medium
+P0447,Light,Former Smoker,Low
+P0448,None,Non-smoker,Medium
+P0449,Light,Non-smoker,Low
+P0450,Light,Non-smoker,Low
+P0451,Moderate,Former Smoker,Low
+P0452,Moderate,Non-smoker,Medium
+P0453,Moderate,Non-smoker,Medium
+P0454,Light,Former Smoker,Medium
+P0455,None,Non-smoker,Medium
+P0456,Light,Non-smoker,Low
+P0457,Moderate,Non-smoker,High
+P0458,Heavy,Non-smoker,High
+P0459,None,Non-smoker,Medium
+P0460,Light,Non-smoker,Low
+P0461,None,Non-smoker,Medium
+P0462,None,Non-smoker,Medium
+P0463,Light,Non-smoker,High
+P0464,Light,Former Smoker,High
+P0465,None,Non-smoker,High
+P0466,Moderate,Non-smoker,Low
+P0467,Moderate,Non-smoker,High
+P0468,Heavy,Non-smoker,Medium
+P0469,None,Non-smoker,High
+P0470,Light,Non-smoker,Medium
+P0471,Light,Former Smoker,Low
+P0472,None,Non-smoker,Medium
+P0473,Light,Former Smoker,Low
+P0474,Moderate,Non-smoker,Low
+P0475,None,Non-smoker,High
+P0476,Heavy,Non-smoker,Low
+P0477,Moderate,Former Smoker,Low
+P0478,Moderate,Non-smoker,Low
+P0479,Moderate,Non-smoker,Medium
+P0480,None,Non-smoker,High
+P0481,Moderate,Non-smoker,Low
+P0482,None,Smoker,Low
+P0483,Moderate,Non-smoker,High
+P0484,None,Former Smoker,High
+P0485,None,Former Smoker,Low
+P0486,Light,Non-smoker,Medium
+P0487,None,Non-smoker,Medium
+P0488,Light,Former Smoker,Medium
+P0489,Light,Non-smoker,Medium
+P0490,Moderate,Non-smoker,High
+P0491,Light,Former Smoker,Low
+P0492,None,Former Smoker,Low
+P0493,None,Former Smoker,Low
+P0494,Light,Former Smoker,Medium
+P0495,Light,Non-smoker,High
+P0496,Moderate,Non-smoker,Medium
+P0497,None,Non-smoker,Low
+P0498,None,Former Smoker,Medium
+P0499,None,Smoker,Medium
+P0500,None,Non-smoker,High
+P0501,None,Non-smoker,Medium
+P0502,Moderate,Non-smoker,Medium
+P0503,None,Smoker,Medium
+P0504,Light,Non-smoker,Medium
+P0505,Light,Non-smoker,Medium
+P0506,None,Smoker,Low
+P0507,Moderate,Former Smoker,High
+P0508,Light,Non-smoker,Medium
+P0509,Light,Smoker,Medium
+P0510,Moderate,Non-smoker,High
+P0511,None,Non-smoker,High
+P0512,Moderate,Non-smoker,High
+P0513,Light,Former Smoker,High
+P0514,Light,Former Smoker,Low
+P0515,Moderate,Non-smoker,Medium
+P0516,Moderate,Smoker,Medium
+P0517,Light,Non-smoker,Low
+P0518,Moderate,Former Smoker,High
+P0519,Light,Former Smoker,Medium
+P0520,Light,Non-smoker,Medium
+P0521,None,Non-smoker,High
+P0522,None,Smoker,Low
+P0523,Moderate,Non-smoker,Medium
+P0524,None,Former Smoker,Medium
+P0525,None,Non-smoker,Low
+P0526,Moderate,Former Smoker,Low
+P0527,None,Non-smoker,High
+P0528,None,Non-smoker,Medium
+P0529,Light,Non-smoker,High
+P0530,Light,Smoker,Medium
+P0531,Moderate,Non-smoker,Low
+P0532,Light,Non-smoker,Low
+P0533,Light,Smoker,Low
+P0534,Moderate,Former Smoker,High
+P0535,Light,Non-smoker,Low
+P0536,Light,Smoker,High
+P0537,Moderate,Former Smoker,High
+P0538,Light,Non-smoker,High
+P0539,None,Non-smoker,Medium
+P0540,None,Former Smoker,High
+P0541,Light,Former Smoker,Low
+P0542,None,Non-smoker,Low
+P0543,Light,Non-smoker,Low
+P0544,Moderate,Non-smoker,High
+P0545,Light,Non-smoker,Low
+P0546,None,Non-smoker,Medium
+P0547,Moderate,Non-smoker,Low
+P0548,None,Former Smoker,Low
+P0549,Moderate,Former Smoker,Low
+P0550,Light,Non-smoker,High
+P0551,None,Non-smoker,Medium
+P0552,Moderate,Non-smoker,High
+P0553,None,Non-smoker,Medium
+P0554,Heavy,Smoker,High
+P0555,None,Former Smoker,Medium
+P0556,None,Non-smoker,Medium
+P0557,None,Non-smoker,Medium
+P0558,None,Non-smoker,Medium
+P0559,Moderate,Former Smoker,High
+P0560,Light,Non-smoker,Medium
+P0561,Moderate,Former Smoker,High
+P0562,None,Former Smoker,Medium
+P0563,Light,Non-smoker,Low
+P0564,Light,Smoker,Medium
+P0565,Light,Former Smoker,Low
+P0566,Light,Former Smoker,Medium
+P0567,Light,Smoker,Medium
+P0568,None,Non-smoker,High
+P0569,Moderate,Non-smoker,Low
+P0570,Moderate,Smoker,Low
+P0571,Light,Former Smoker,Low
+P0572,None,Smoker,Low
+P0573,None,Non-smoker,High
+P0574,None,Former Smoker,High
+P0575,None,Non-smoker,Medium
+P0576,None,Non-smoker,High
+P0577,Moderate,Non-smoker,Low
+P0578,Light,Non-smoker,Low
+P0579,Light,Non-smoker,Low
+P0580,None,Former Smoker,High
+P0581,Moderate,Non-smoker,Medium
+P0582,None,Non-smoker,Medium
+P0583,Moderate,Non-smoker,Low
+P0584,Heavy,Non-smoker,Low
+P0585,Moderate,Smoker,High
+P0586,Heavy,Non-smoker,Low
+P0587,Light,Non-smoker,Medium
+P0588,None,Former Smoker,Low
+P0589,None,Former Smoker,Low
+P0590,None,Former Smoker,Medium
+P0591,None,Former Smoker,Low
+P0592,Light,Smoker,Medium
+P0593,None,Non-smoker,Medium
+P0594,Moderate,Smoker,Medium
+P0595,None,Former Smoker,Medium
+P0596,Light,Non-smoker,Medium
+P0597,Heavy,Former Smoker,Low
+P0598,None,Former Smoker,Medium
+P0599,Moderate,Non-smoker,Medium
+P0600,Moderate,Non-smoker,Low
+P0601,None,Smoker,High
+P0602,Light,Non-smoker,Medium
+P0603,None,Non-smoker,High
+P0604,Moderate,Former Smoker,High
+P0605,Light,Non-smoker,Medium
+P0606,Light,Non-smoker,Medium
+P0607,Moderate,Former Smoker,Medium
+P0608,None,Former Smoker,Medium
+P0609,Moderate,Non-smoker,High
+P0610,Moderate,Smoker,Medium
+P0611,Moderate,Non-smoker,Low
+P0612,Moderate,Non-smoker,Medium
+P0613,Light,Non-smoker,High
+P0614,Heavy,Former Smoker,Medium
+P0615,None,Non-smoker,Medium
+P0616,Light,Non-smoker,Medium
+P0617,None,Former Smoker,Low
+P0618,Heavy,Non-smoker,Low
+P0619,Moderate,Former Smoker,Medium
+P0620,Moderate,Non-smoker,Medium
+P0621,None,Smoker,Medium
+P0622,Moderate,Non-smoker,Medium
+P0623,Moderate,Non-smoker,Medium
+P0624,Light,Non-smoker,Low
+P0625,None,Smoker,Low
+P0626,Light,Former Smoker,Low
+P0627,None,Non-smoker,Medium
+P0628,Light,Former Smoker,Low
+P0629,None,Non-smoker,Medium
+P0630,None,Smoker,Low
+P0631,None,Smoker,Medium
+P0632,None,Smoker,Low
+P0633,None,Smoker,Medium
+P0634,Moderate,Smoker,Medium
+P0635,Light,Non-smoker,Low
+P0636,None,Former Smoker,High
+P0637,Light,Former Smoker,Low
+P0638,Light,Smoker,Medium
+P0639,Moderate,Non-smoker,High
+P0640,None,Non-smoker,Medium
+P0641,None,Non-smoker,High
+P0642,Heavy,Former Smoker,Low
+P0643,None,Non-smoker,Medium
+P0644,None,Non-smoker,Medium
+P0645,None,Non-smoker,Low
+P0646,None,Non-smoker,Medium
+P0647,Heavy,Non-smoker,Low
+P0648,None,Non-smoker,Medium
+P0649,Moderate,Smoker,High
+P0650,Heavy,Former Smoker,Low
+P0651,Light,Non-smoker,Low
+P0652,None,Former Smoker,Medium
+P0653,None,Former Smoker,Medium
+P0654,Light,Non-smoker,Medium
+P0655,Light,Non-smoker,Medium
+P0656,Light,Former Smoker,Low
+P0657,Light,Non-smoker,Medium
+P0658,Moderate,Former Smoker,High
+P0659,Light,Non-smoker,Medium
+P0660,Light,Non-smoker,Medium
+P0661,Moderate,Smoker,Low
+P0662,None,Non-smoker,Low
+P0663,None,Former Smoker,Low
+P0664,None,Non-smoker,Medium
+P0665,None,Non-smoker,High
+P0666,Light,Non-smoker,Medium
+P0667,None,Non-smoker,Low
+P0668,Light,Non-smoker,Low
+P0669,Heavy,Non-smoker,Low
+P0670,None,Non-smoker,Medium
+P0671,Light,Former Smoker,Medium
+P0672,None,Non-smoker,Low
+P0673,None,Smoker,Medium
+P0674,Light,Non-smoker,Low
+P0675,Moderate,Non-smoker,Low
+P0676,None,Former Smoker,Low
+P0677,None,Non-smoker,Low
+P0678,None,Non-smoker,Low
+P0679,None,Non-smoker,Low
+P0680,None,Former Smoker,Medium
+P0681,Light,Former Smoker,Medium
+P0682,None,Non-smoker,Medium
+P0683,Light,Non-smoker,High
+P0684,Light,Former Smoker,Low
+P0685,Light,Non-smoker,High
+P0686,None,Non-smoker,Low
+P0687,Heavy,Non-smoker,Medium
+P0688,None,Non-smoker,Medium
+P0689,Moderate,Non-smoker,Low
+P0690,None,Former Smoker,High
+P0691,Light,Non-smoker,Low
+P0692,None,Non-smoker,Low
+P0693,None,Smoker,Low
+P0694,None,Non-smoker,Low
+P0695,None,Non-smoker,Low
+P0696,Moderate,Non-smoker,Low
+P0697,Light,Former Smoker,Low
+P0698,None,Non-smoker,High
+P0699,Light,Non-smoker,Low
+P0700,Moderate,Smoker,Low
+P0701,Moderate,Smoker,Medium
+P0702,None,Former Smoker,High
+P0703,Moderate,Non-smoker,Low
+P0704,None,Non-smoker,Low
+P0705,Light,Non-smoker,High
+P0706,Light,Non-smoker,Low
+P0707,Moderate,Former Smoker,Medium
+P0708,Moderate,Non-smoker,Low
+P0709,Moderate,Smoker,High
+P0710,None,Non-smoker,High
+P0711,Moderate,Non-smoker,High
+P0712,None,Former Smoker,Low
+P0713,None,Non-smoker,Medium
+P0714,Light,Smoker,Low
+P0715,Light,Smoker,High
+P0716,Light,Non-smoker,High
+P0717,Light,Non-smoker,Medium
+P0718,Moderate,Non-smoker,Medium
+P0719,None,Former Smoker,Low
+P0720,None,Non-smoker,Medium
+P0721,Moderate,Former Smoker,Medium
+P0722,None,Non-smoker,Low
+P0723,Light,Former Smoker,Low
+P0724,Light,Former Smoker,Low
+P0725,Light,Non-smoker,High
+P0726,Light,Non-smoker,High
+P0727,None,Non-smoker,High
+P0728,Moderate,Non-smoker,Medium
+P0729,None,Non-smoker,Medium
+P0730,Light,Non-smoker,Low
+P0731,None,Smoker,High
+P0732,Light,Smoker,Medium
+P0733,Light,Former Smoker,Medium
+P0734,Moderate,Non-smoker,Medium
+P0735,Moderate,Former Smoker,High
+P0736,Light,Non-smoker,Low
+P0737,Moderate,Non-smoker,Low
+P0738,Light,Non-smoker,Medium
+P0739,Light,Non-smoker,High
+P0740,Light,Non-smoker,Medium
+P0741,Light,Non-smoker,Medium
+P0742,Moderate,Smoker,Low
+P0743,None,Non-smoker,Medium
+P0744,Light,Smoker,Medium
+P0745,Moderate,Non-smoker,Medium
+P0746,Moderate,Non-smoker,Low
+P0747,Moderate,Non-smoker,High
+P0748,Light,Former Smoker,Medium
+P0749,Light,Non-smoker,Medium
+P0750,None,Non-smoker,Low
+P0751,Light,Non-smoker,Low
+P0752,Moderate,Non-smoker,High
+P0753,Moderate,Former Smoker,Low
+P0754,Moderate,Non-smoker,Medium
+P0755,None,Non-smoker,Medium
+P0756,Moderate,Smoker,Medium
+P0757,Moderate,Non-smoker,Low
+P0758,None,Former Smoker,Low
+P0759,Light,Former Smoker,High
+P0760,Moderate,Smoker,Medium
+P0761,Light,Non-smoker,Low
+P0762,Heavy,Former Smoker,Low
+P0763,Light,Non-smoker,High
+P0764,Moderate,Former Smoker,Low
+P0765,Moderate,Non-smoker,Medium
+P0766,Light,Non-smoker,Medium
+P0767,Moderate,Smoker,High
+P0768,Light,Non-smoker,Medium
+P0769,Light,Smoker,Medium
+P0770,None,Smoker,Low
+P0771,None,Non-smoker,High
+P0772,Moderate,Non-smoker,Medium
+P0773,Moderate,Non-smoker,High
+P0774,None,Smoker,Medium
+P0775,None,Non-smoker,Medium
+P0776,None,Non-smoker,Low
+P0777,Light,Former Smoker,Medium
+P0778,Heavy,Smoker,Low
+P0779,Light,Former Smoker,Low
+P0780,Light,Former Smoker,Low
+P0781,Light,Non-smoker,Low
+P0782,None,Non-smoker,Low
+P0783,Moderate,Non-smoker,Low
+P0784,Light,Smoker,High
+P0785,Light,Former Smoker,Low
+P0786,Moderate,Former Smoker,Medium
+P0787,Moderate,Former Smoker,Low
+P0788,Moderate,Non-smoker,Medium
+P0789,Moderate,Non-smoker,Medium
+P0790,Heavy,Non-smoker,High
+P0791,Light,Non-smoker,High
+P0792,None,Former Smoker,Medium
+P0793,Light,Non-smoker,Medium
+P0794,Moderate,Former Smoker,Low
+P0795,None,Former Smoker,Medium
+P0796,None,Non-smoker,Low
+P0797,None,Non-smoker,Low
+P0798,Moderate,Non-smoker,Low
+P0799,Light,Non-smoker,Medium
+P0800,None,Former Smoker,Medium
+P0801,None,Non-smoker,Medium
+P0802,Moderate,Former Smoker,Medium
+P0803,None,Former Smoker,Low
+P0804,None,Non-smoker,Medium
+P0805,Light,Former Smoker,High
+P0806,Light,Former Smoker,High
+P0807,None,Former Smoker,Medium
+P0808,Light,Non-smoker,Medium
+P0809,None,Non-smoker,Medium
+P0810,Moderate,Non-smoker,Low
+P0811,None,Non-smoker,Low
+P0812,None,Former Smoker,Low
+P0813,Moderate,Former Smoker,Low
+P0814,Moderate,Smoker,Medium
+P0815,None,Non-smoker,High
+P0816,None,Non-smoker,Medium
+P0817,Moderate,Former Smoker,Medium
+P0818,Moderate,Non-smoker,Medium
+P0819,None,Non-smoker,Low
+P0820,Light,Non-smoker,Low
+P0821,None,Non-smoker,Medium
+P0822,Light,Former Smoker,Medium
+P0823,None,Non-smoker,High
+P0824,None,Former Smoker,Low
+P0825,None,Former Smoker,High
+P0826,Light,Non-smoker,Low
+P0827,Light,Smoker,Medium
+P0828,Light,Non-smoker,Medium
+P0829,None,Smoker,Low
+P0830,None,Non-smoker,Low
+P0831,Moderate,Former Smoker,Low
+P0832,None,Non-smoker,Low
+P0833,Moderate,Former Smoker,Medium
+P0834,None,Former Smoker,Low
+P0835,Light,Non-smoker,Medium
+P0836,Light,Smoker,Low
+P0837,Heavy,Non-smoker,Medium
+P0838,None,Non-smoker,Medium
+P0839,None,Former Smoker,Medium
+P0840,Light,Former Smoker,Medium
+P0841,Moderate,Non-smoker,Low
+P0842,Heavy,Non-smoker,High
+P0843,Light,Smoker,Low
+P0844,Light,Former Smoker,Low
+P0845,Light,Non-smoker,Low
+P0846,Light,Non-smoker,Medium
+P0847,Light,Smoker,Medium
+P0848,Moderate,Former Smoker,Medium
+P0849,Moderate,Smoker,Medium
+P0850,Light,Non-smoker,Low
+P0851,Light,Former Smoker,High
+P0852,Light,Former Smoker,Medium
+P0853,Light,Non-smoker,Medium
+P0854,Light,Non-smoker,Medium
+P0855,None,Former Smoker,Low
+P0856,None,Non-smoker,Low
+P0857,Light,Former Smoker,Medium
+P0858,Moderate,Former Smoker,Low
+P0859,None,Smoker,Low
+P0860,Light,Former Smoker,High
+P0861,None,Non-smoker,Medium
+P0862,None,Non-smoker,Medium
+P0863,Heavy,Former Smoker,Medium
+P0864,Moderate,Non-smoker,High
+P0865,None,Non-smoker,Low
+P0866,Moderate,Non-smoker,High
+P0867,None,Non-smoker,Medium
+P0868,Heavy,Former Smoker,Low
+P0869,None,Non-smoker,Low
+P0870,None,Non-smoker,Medium
+P0871,Light,Smoker,Medium
+P0872,Moderate,Former Smoker,Low
+P0873,None,Former Smoker,Medium
+P0874,Moderate,Former Smoker,Medium
+P0875,None,Former Smoker,Medium
+P0876,Moderate,Former Smoker,High
+P0877,None,Non-smoker,High
+P0878,Moderate,Smoker,Medium
+P0879,Light,Non-smoker,High
+P0880,Light,Smoker,Low
+P0881,Heavy,Non-smoker,Low
+P0882,Heavy,Non-smoker,Low
+P0883,Light,Non-smoker,Medium
+P0884,None,Non-smoker,Medium
+P0885,Light,Former Smoker,Medium
+P0886,Light,Smoker,Low
+P0887,Light,Smoker,Low
+P0888,Light,Smoker,High
+P0889,None,Non-smoker,High
+P0890,Moderate,Smoker,Medium
+P0891,Moderate,Non-smoker,Medium
+P0892,None,Smoker,Medium
+P0893,Light,Non-smoker,Low
+P0894,Light,Non-smoker,Medium
+P0895,Light,Smoker,Medium
+P0896,None,Smoker,Medium
+P0897,Light,Former Smoker,Low
+P0898,None,Former Smoker,High
+P0899,Light,Non-smoker,High
+P0900,Moderate,Former Smoker,Low
+P0901,Moderate,Former Smoker,Medium
+P0902,None,Non-smoker,High
+P0903,Light,Non-smoker,Low
+P0904,Heavy,Non-smoker,Medium
+P0905,None,Former Smoker,Medium
+P0906,Moderate,Non-smoker,Medium
+P0907,Moderate,Non-smoker,High
+P0908,Moderate,Non-smoker,Low
+P0909,None,Non-smoker,Low
+P0910,None,Former Smoker,Low
+P0911,Moderate,Former Smoker,Low
+P0912,None,Non-smoker,Medium
+P0913,None,Non-smoker,Medium
+P0914,Light,Non-smoker,Low
+P0915,None,Smoker,Medium
+P0916,Moderate,Non-smoker,Medium
+P0917,Light,Non-smoker,Low
+P0918,Moderate,Former Smoker,Medium
+P0919,Moderate,Non-smoker,Medium
+P0920,None,Former Smoker,Medium
+P0921,None,Non-smoker,Low
+P0922,Moderate,Former Smoker,Medium
+P0923,Light,Non-smoker,High
+P0924,Heavy,Non-smoker,Medium
+P0925,Moderate,Non-smoker,Low
+P0926,None,Former Smoker,Medium
+P0927,Moderate,Smoker,Low
+P0928,None,Non-smoker,Medium
+P0929,None,Former Smoker,Low
+P0930,Moderate,Former Smoker,Low
+P0931,Moderate,Smoker,Medium
+P0932,Light,Former Smoker,Low
+P0933,None,Non-smoker,Medium
+P0934,None,Former Smoker,Low
+P0935,None,Non-smoker,Low
+P0936,None,Non-smoker,High
+P0937,None,Non-smoker,High
+P0938,Light,Smoker,Low
+P0939,Moderate,Smoker,Medium
+P0940,None,Former Smoker,Low
+P0941,None,Smoker,Medium
+P0942,Moderate,Former Smoker,Medium
+P0943,Moderate,Non-smoker,Low
+P0944,Moderate,Non-smoker,Medium
+P0945,None,Non-smoker,Low
+P0946,None,Non-smoker,Low
+P0947,Light,Non-smoker,Medium
+P0948,Light,Non-smoker,Medium
+P0949,Light,Former Smoker,Medium
+P0950,Light,Smoker,Medium
+P0951,None,Former Smoker,Medium
+P0952,Light,Smoker,Medium
+P0953,Light,Non-smoker,Low
+P0954,Light,Smoker,Medium
+P0955,Light,Non-smoker,Medium
+P0956,Light,Non-smoker,Medium
+P0957,None,Smoker,Medium
+P0958,None,Non-smoker,Low
+P0959,Light,Non-smoker,Medium
+P0960,None,Non-smoker,Low
+P0961,Light,Former Smoker,Medium
+P0962,Moderate,Smoker,Medium
+P0963,None,Non-smoker,High
+P0964,None,Smoker,Medium
+P0965,Heavy,Non-smoker,High
+P0966,None,Non-smoker,Medium
+P0967,None,Non-smoker,High
+P0968,None,Former Smoker,Medium
+P0969,Moderate,Non-smoker,High
+P0970,None,Non-smoker,Low
+P0971,Light,Non-smoker,Low
+P0972,Light,Non-smoker,Medium
+P0973,None,Former Smoker,High
+P0974,None,Non-smoker,Medium
+P0975,Moderate,Non-smoker,Low
+P0976,Light,Non-smoker,Medium
+P0977,None,Non-smoker,Medium
+P0978,None,Former Smoker,Low
+P0979,Light,Non-smoker,Medium
+P0980,Moderate,Non-smoker,High
+P0981,None,Non-smoker,High
+P0982,Light,Non-smoker,Low
+P0983,None,Smoker,Low
+P0984,None,Former Smoker,Low
+P0985,None,Former Smoker,Low
+P0986,Moderate,Non-smoker,Low
+P0987,Light,Former Smoker,Medium
+P0988,Moderate,Former Smoker,Low
+P0989,Moderate,Non-smoker,High
+P0990,Moderate,Former Smoker,High
+P0991,None,Former Smoker,Low
+P0992,None,Non-smoker,High
+P0993,Heavy,Non-smoker,Medium
+P0994,Moderate,Former Smoker,Medium
+P0995,Moderate,Non-smoker,Low
+P0996,None,Former Smoker,Medium
+P0997,None,Former Smoker,Low
+P0998,Moderate,Former Smoker,Medium
+P0999,None,Non-smoker,Low
+P1000,Light,Non-smoker,Medium
